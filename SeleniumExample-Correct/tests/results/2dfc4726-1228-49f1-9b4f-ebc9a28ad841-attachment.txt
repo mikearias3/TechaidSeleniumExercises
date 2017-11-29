@@ -1,0 +1,20 @@
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:59206/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+remote_connection.py       565 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:59206/session/4d6a80b0cedb7e7c2183cbea56f40fe8/url {"url": "https://www.wikipedia.org/", "sessionId": "4d6a80b0cedb7e7c2183cbea56f40fe8"}
+remote_connection.py       565 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:59206/session/4d6a80b0cedb7e7c2183cbea56f40fe8/element {"using": "id", "value": "js-link-box-en", "sessionId": "4d6a80b0cedb7e7c2183cbea56f40fe8"}
+remote_connection.py       565 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:59206/session/4d6a80b0cedb7e7c2183cbea56f40fe8/element/0.23257709329958276-1/click {"id": "0.23257709329958276-1", "sessionId": "4d6a80b0cedb7e7c2183cbea56f40fe8"}
+remote_connection.py       565 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:59206/session/4d6a80b0cedb7e7c2183cbea56f40fe8/element {"using": "id", "value": "searchInput", "sessionId": "4d6a80b0cedb7e7c2183cbea56f40fe8"}
+remote_connection.py       565 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:59206/session/4d6a80b0cedb7e7c2183cbea56f40fe8/element/0.3766145363980067-1/value {"text": "Python\ue006", "value": ["P", "y", "t", "h", "o", "n", "\ue006"], "id": "0.3766145363980067-1", "sessionId": "4d6a80b0cedb7e7c2183cbea56f40fe8"}
+remote_connection.py       565 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:59206/session/4d6a80b0cedb7e7c2183cbea56f40fe8/element {"using": "link text", "value": "Python (programming language)", "sessionId": "4d6a80b0cedb7e7c2183cbea56f40fe8"}
+remote_connection.py       565 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:59206/session/4d6a80b0cedb7e7c2183cbea56f40fe8/element/0.8414143872733466-1/click {"id": "0.8414143872733466-1", "sessionId": "4d6a80b0cedb7e7c2183cbea56f40fe8"}
+remote_connection.py       565 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:59206/session/4d6a80b0cedb7e7c2183cbea56f40fe8/element {"using": "xpath", "value": "//h1[text()='Python (programming language)']", "sessionId": "4d6a80b0cedb7e7c2183cbea56f40fe8"}
+remote_connection.py       565 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:59206/session/4d6a80b0cedb7e7c2183cbea56f40fe8/element/0.314005949647463-1/text {"id": "0.314005949647463-1", "sessionId": "4d6a80b0cedb7e7c2183cbea56f40fe8"}
+remote_connection.py       565 DEBUG    Finished Request

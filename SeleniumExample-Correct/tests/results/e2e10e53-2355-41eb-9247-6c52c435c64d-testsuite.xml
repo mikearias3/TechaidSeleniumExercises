@@ -1,0 +1,20 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1511975992922" stop="1511975997429">
+  <name>tests.testcases</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1511975992922" status="passed" stop="1511975997429">
+      <name>TestWikipedia.test_search_for_result</name>
+      <attachments>
+        <attachment source="2dfc4726-1228-49f1-9b4f-ebc9a28ad841-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="81805-MainThread"/>
+        <label name="host" value="Mikes-MacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
